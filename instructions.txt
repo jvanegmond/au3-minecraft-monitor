@@ -1,0 +1,6 @@
+You MUST be running the minecraft_server.jar or a similar server for this server to work. It will NOT work with the GUI version.
+
+Instructions:
+1. Place minecraftmonitor.exe and minecraftmonitor.ini in the same folder as your minecraft_server.jar
+2. Edit minecraftmonitor.ini with a text editor. Use the example values as a guide. Make sure to change the remote password!
+3. Start minecraftmonitor.exe as you would normally start your Minecraft server. minecraftmonitor.exe will automatically run your server.
