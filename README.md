@@ -1,4 +1,4 @@
-AutoIt_Minecraft_Monitor
+au3-minecraft-monitor
 ========================
 
 Server monitor and remote management application for Minecraft written in AutoIt3. This was originally written in Februari of 2011. I'm not sure if it still works, but it will be a great starting point for anyone attempting a similar project so I want to keep it available.
