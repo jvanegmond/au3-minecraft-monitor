@@ -299,3 +299,5 @@ Func _Log($msg)
 	FileWrite($logFile, $msg)
 	ConsoleWrite($msg)
 EndFunc
+
+; Test linguist
