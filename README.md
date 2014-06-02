@@ -12,5 +12,3 @@ The Minecraft server monitor for Windows is installed along side Minecraft and e
   * Open-sourced for commercial and non-commercial work. Allows derivative works.
 
 The tool is written with complete transparency for the game - If the game is ever updated, your monitor will continue to work without changes. This only works on Windows.
-
-*A great tool for Linux* can be found at [http://www.minecraftmonitor.com/ minecraftmonitor.com]
